@@ -1,0 +1,2 @@
+terminal> go mod init imageViewer
+>go mod tidy
