@@ -28,7 +28,7 @@ git push origin master
 
 
 //generate ssh key
-$ ssh keygen
+$ ssh-keygen
 ////
 $ ssh-keygen -t ed25519 -C "your_email@example.com"
 // path of key /c/Users/ranveer/.ssh/id_rsa.pub
